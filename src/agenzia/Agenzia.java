@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Agenzia {
     public static void main(String[] args){
+
         Scanner in = new Scanner(System.in);
         int cont = 0;
         Pacchetto[] pacchetti = new Pacchetto[100];
